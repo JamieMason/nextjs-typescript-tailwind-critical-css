@@ -1,0 +1,27 @@
+{
+  "name": "next-ts-tailwind",
+  "description": "Next.js 9.3, TypeScript, TailwindCSS, Critical CSS",
+  "version": "0.0.0",
+  "author": "Jamie Mason <jamie@foldleft.io> (https://github.com/JamieMason)",
+  "dependencies": {
+    "next": "9.3.0",
+    "react": "16.13.0",
+    "react-dom": "16.13.0"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "2.1.0",
+    "@types/node": "13.9.0",
+    "@types/react": "16.9.23",
+    "postcss-preset-env": "6.7.0",
+    "tailwindcss": "1.2.0",
+    "typescript": "3.8.3"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "dev": "next",
+    "start": "next start"
+  }
+}
