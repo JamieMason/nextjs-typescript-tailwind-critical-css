@@ -1,13 +1,12 @@
-# Next.js 9.3, TypeScript, TailwindCSS, Critical CSS
+# Next.js 9.3, TypeScript, tailwindcss, Critical CSS
 
-A Starter Template for [Next.js](https://nextjs.org/) with support for [TypeScript](https://www.typescriptlang.org/),
-[TailwindCSS](https://tailwindcss.com/), and support for the
-[Critical CSS technique](https://web.dev/extract-critical-css/).
+A [Next.js](https://nextjs.org/) 9.3 Starter Template with [TypeScript](https://www.typescriptlang.org/),
+[tailwindcss](https://tailwindcss.com/), and the [Critical CSS technique](https://web.dev/extract-critical-css/).
 
 ## Features
 
 ✅ Next.js 9.3.0<br><!--
-|-->✅ TailwindCSS 1.2.0<br><!--
+|-->✅ tailwindcss 1.2.0<br><!--
 |-->✅ Strict TypeScript 3.8.3<br><!--
 |-->✅ Remove Unused CSS<br><!--
 |-->✅ Inline Critical CSS in the `<head>`<br>
@@ -356,7 +355,7 @@ The vast majority of the CSS is [normalize.css](https://necolas.github.io/normal
     <div id="__next">
       <div class="flex flex-col justify-center items-center h-screen">
         <h1 class="Example_example__26puF">Hello Next.js 9.3</h1>
-        <p>With TypeScript, TailwindCSS, and Critical CSS</p>
+        <p>With TypeScript, tailwindcss, and Critical CSS</p>
       </div>
     </div>
     <script id="__NEXT_DATA__" type="application/json">
