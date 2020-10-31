@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "author": "Jamie Mason <jamie@foldleft.io> (https://github.com/JamieMason)",
   "dependencies": {
-    "next": "9.3.0",
+    "next": "9.3.2",
     "react": "16.13.0",
     "react-dom": "16.13.0"
   },
